@@ -1,0 +1,26 @@
+$c:#0d0d0d;
+*{
+    
+    box-sizing: border-box;
+    margin:0;
+    overflow:hidden;
+    
+}
+.color{
+    background-color: $c;
+    padding: 1vh 1.5vw 1vh 1vw;
+    height: 100vh;
+   
+}
+.bgclr{
+    background-color: $c;
+}
+.adjust{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#win{
+    border: 0.15vh solid white;
+    opacity: 0.6;
+}
