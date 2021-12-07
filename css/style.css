@@ -81,6 +81,10 @@ body::-webkit-scrollbar-thumb {
   background-color: #333333;
 }
 
+.inpm {
+  background-color: #262626;
+}
+
 .pt {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -161,6 +165,10 @@ svg path {
 
 #sp {
   height: 83.5vh;
+}
+
+#msg {
+  background-color: #1a1a1a;
 }
 
 @media (max-width: 807px) {

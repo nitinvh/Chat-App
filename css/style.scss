@@ -62,6 +62,9 @@ border-radius: 0.5rem;
 .inp{
     background-color: #333333;
 }
+.inpm{
+    background-color: #262626;
+}
 .pt{
     display: flex;
     flex-direction: row;
@@ -124,6 +127,11 @@ svg path{
 #sp{
     height: 83.5vh;
 }
+#msg{
+    background-color:#1a1a1a;
+}
+
+
 @media(max-width:807px){
     #win{
         border: 0;
